@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HealthHistory</string>
+    <string name="login">Login</string>
+    <string name="esqueceuSenha">Esqueceu sua senha?</string>
+    <string name="user">Usuário</string>
+    <string name="pwd">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastre-se</string>
+    <string name="nome">Nome</string>
+    <string name="fazerCadastro">Faça seu cadastro:</string>
+    <string name="txtConsulta">Adicione sua consulta ao seu calendário Google</string>
+    <string name="entrarGoogle">Entrar com o Google</string>
+    <string name="marcarCalendario">Adicionar Consulta ao Calendário</string>
+    <string name="resetSenha">Resetar a sua senha:</string>
+    <string name="enviar">Enviar</string>
+
+</resources>
